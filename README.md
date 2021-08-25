@@ -6,26 +6,26 @@ Version: v1.0.0.0
 Developer: hairenaa
 Email: 1254450789@qq.com
 ## be careful:
-**1. Csgo needs to be set to full screen window mode**
+**1. Csgo needs to be set to full screen window mode**<br> 
 **2. Start the program after the game starts**
-********************************************
-Parameter introduction:
-Input box:
-CUTWIDTH: the width of the game screen (int)
-Cutheight: the height of the game screen (int)
-Scale: screen zoom ratio, generally 1.0 (float)
-Magrate: picture magnification (float)
-Drop down menu:
-Shape: magnifying glass shape
-Mask: magnifying glass mask
-Select window: select the game window you want to play
-**********************************************
-Function introduction:
-Button:
-Start: used to turn on the magnifying glass
-Stop: used to hide the magnifying glass
-Hotkeys: right mouse button on / off magnifying glass
-Switchkey: used to set a keyboard key to decide whether to enable the right-click hotkey
-Saveoption: saves the current parameter information
+
+**Parameter introduction:**<br> 
+Input box:<br> 
+CUTWIDTH: the width of the game screen (int)<br> 
+Cutheight: the height of the game screen (int)<br> 
+Scale: screen zoom ratio, generally 1.0 (float)<br> 
+Magrate: picture magnification (float)<br> 
+Drop down menu:<br> 
+Shape: magnifying glass shape<br> 
+Mask: magnifying glass mask<br> 
+Select window: select the game window you want to play<br> 
+
+**Function introduction:**<br> 
+Button:<br> 
+Start: used to turn on the magnifying glass<br> 
+Stop: used to hide the magnifying glass<br> 
+Hotkeys: right mouse button on / off magnifying glass<br> 
+Switchkey: used to set a keyboard key to decide whether to enable the right-click hotkey<br> 
+Saveoption: saves the current parameter information<br> 
 
 

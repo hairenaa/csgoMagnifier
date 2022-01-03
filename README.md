@@ -7,7 +7,8 @@ Developer: hairenaa
 Email: 1254450789@qq.com
 ## be careful:
 **1. Csgo needs to be set to full screen window mode**<br> 
-**2. Start the program after the game starts**
+**2. U need to choose your csgo window name before u use it**<br> 
+**3. Start the program after the game starts**
 
 **Parameter introduction:**<br> 
 Input box:<br> 
